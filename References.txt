@@ -1,0 +1,61 @@
+References for data table in Distinguishing kilonova- and supernova-associated gamma-ray bursts using burst and host galaxy properties.
+
+Abbott 2017: DOI 10.3847/2041-8213/aa920c
+Ahumada 2021: https://doi.org/10.1038/s41550-021-01428-7
+Aimuratov 2023: DOI 10.3847/1538-4357/ace721
+Andersen 2000: 10.48550/ARXIV.ASTRO-PH/0010322
+Barthelmy 2005: https://doi.org/10.1038/nature04392
+Barthelmy 2006: 2006GCN..5256....1B
+Beardmore 2015: 2015GCN.17743....1B
+Blanchard 2016: DOI 10.3847/0004-637X/817/2/144
+Bloom 2002: DOI 10.1086/338893
+Conselice 2005: 10.1086/432829
+Cummings 2013: 2013GCN.15006....1C
+Della Valle 2007: https://doi.org/10.1038/nature05374
+D’Avanzo 2009: 10.1051/0004-6361/200811294
+Eyles 2019: 10.1093/mnras/stz2040
+Fong 2013: 10.1088/0004-637X/769/1/56
+Fong 2022: DOI 10.3847/1538-4357/ac91d1
+Frontera 2000: 10.1086/309369
+Gal-Yam 2007: https://doi.org/10.1038/nature05373
+Goldstein 2017: 10.3847/2041-8213/aa8f41
+Gotz 2004: 2004GCN..2640....1G
+Graham 2009: 10.1088/0004-637X/698/2/1620
+Hurley 2002: 2002GCN..1507....1H
+Jeong 2024: DOI 10.3847/1538-4357/ad6b2a
+Kann 2011: DOI 10.1088/0004-637X/734/2/96
+Krimm 2006: 2006GCN..5704....1K
+Laha 2020: 2020GCN.27148....1L
+Leibler 2010: DOI 10.1088/0004-637X/725/1/1202
+Levan 2017: https://doi.org/10.3847/2041-8213/aa905f
+Levan 2024: https://doi.org/10.1038/s41586-023-06759-1
+Levesque 2010: DOI 10.1088/0004-6256/140/5/1557
+Li 2016: DOI 10.3847/0067-0049/227/1/7
+Lien 2016: 10.3847/0004-637X/829/1/7
+Lü 2022: DOI 10.3847/2041-8213/ac6e3a
+Mannucci 2011: https://doi.org/10.1111/j.1365-2966.2011.18459.x
+MichalowskI 2018: 10.1051/0004-6361/201629942
+Nugent 2022: DOI 10.3847/1538-4357/ac91d1
+Ofek 2007: 10.1086/518082
+Pagani 2008: 2008GCN..8180....1P
+Pan 2017: DOI 10.3847/2041-8213/aa9116
+Perley 2016: DOI 10.3847/0004-637X/817/1/8
+Rastinejad 2022: https://doi.org/10.1038/s41586-022-05390-w
+SNTABLE: 10.1016/j.ascom.2025.100954
+Sakamoto 2007: 2007GCN..7147....1S
+Sakamoto 2018a: 2018GCN.22796....1S
+Sakamoto 2018b: 2018GCN.23082....1S
+Schneider 2022: https://doi.org/10.1051/0004-6361/202243367
+Stratta 2007: 10.1051/0004-6361:20078006
+Tanga 2018: https://doi.org/10.1051/0004-6361/201731799
+Thone 2008: DOI 10.1086/528943
+Troja 2022: https://doi.org/10.1038/s41586-022-05327-3
+Tueller 2008: 2008GCN..7205....1T
+Ukwatta 2009: 2009GCN..9337....1U
+Ukwatta 2017: 2017GCN.21384....1U
+Wainwright 2005: 10.1086/510794
+Xu 2009: https://doi.org/10.1088/0004-637X/696/1/971
+Yang 2015: 10.1038/ncomms8323
+Yang 2022: https://doi.org/10.1038/s41586-022-05403-8
+de Ugarte Postigo 2006: 10.1086/507868
+in't Zand 2004: 10.48550/arXiv.astro-ph/0305359
